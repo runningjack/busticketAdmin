@@ -55,3 +55,4 @@
 <script src="{{url()}}/dist/js/app.min.js"></script>
 <script src="{{url()}}/dist/js/jquery.validate.min.js"></script>
 <script src="{{url()}}/dist/js/jquery.form.min.js"></script>
+
