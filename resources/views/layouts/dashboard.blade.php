@@ -428,7 +428,6 @@
 
     @include("includes.footer")
     <script src="{{url()}}/plugins/chartjs/Chart.min.js"></script>
-    <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
     <script src="{{url()}}/dist/js/pages/dashboard2.js"></script>
 </body>
 </html>
